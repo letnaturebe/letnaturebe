@@ -8,7 +8,7 @@ description: "Jekyll과 Chirpy 테마로 블로그를 시작합니다."
 ---
 
 안녕하세요! letnaturebe의 첫 번째 포스트입니다.
-
+ㅇㅇ
 이 블로그는 Jekyll과 Chirpy 테마로 만들어졌고, 로컬에서는 아래처럼 실행할 수 있어요.
 
 ```bash
